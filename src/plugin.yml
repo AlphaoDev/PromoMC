@@ -1,0 +1,14 @@
+name: PromoMC
+main: fr.alphao.promomc.main
+version: 0.1
+description: Plugin pour la promo.
+author: Alphao
+commands:
+  co:
+  ping:
+  sunny:
+  spawn:
+    aliases: [hub, s]
+  nick:
+  hat:
+  help:
